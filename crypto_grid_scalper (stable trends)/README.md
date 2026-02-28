@@ -589,6 +589,3 @@ Always start with small position sizes and thoroughly test your strategy.
 - Verify position size is not too small
 - Check if grid prices are reasonable for current market
 
-## License
-
-This project is provided as-is for educational purposes.
